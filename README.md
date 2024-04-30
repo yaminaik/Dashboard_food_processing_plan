@@ -11,7 +11,9 @@ You can access the deployed version of the application [here](https://dashboard-
 To run the application locally, follow these steps:
 
 1. Clone this repository to your local machine:
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/yaminaik/Dashboard_food_processing_plan.git)
+   git clone [https://github.com/yaminaik/Dashboard_food_processing_plan.git]
+
 2.cd frontend and start the server using npm start
+
 3. cd backend and start the server node server.js
 
